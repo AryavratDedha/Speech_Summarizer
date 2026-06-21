@@ -1,14 +1,3 @@
----
-title: AI Notes Summarizer
-emoji: 📝
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: "1.38.0"
-app_file: app.py
-pinned: false
----
-
 # AI Notes Summarizer
 
 Record your voice and get a transcript + structured AI-generated notes.
